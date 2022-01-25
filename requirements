@@ -1,0 +1,6 @@
+numpy
+pathlib
+opencv-python
+pillow
+torch==1.5.1
+torchvision==0.6.1
